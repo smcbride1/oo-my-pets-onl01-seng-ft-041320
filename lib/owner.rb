@@ -1,4 +1,14 @@
 class Owner
+<<<<<<< HEAD
+=======
+  # code goes here
+  # pets method
+  # buy_pets method
+  # change_pet_mood method
+  # walk_pet method
+  # feed_pet method
+  # sell_pets method
+>>>>>>> 735a23c7d65144713aacdbc24f68e64301cc084f
   attr_accessor :dogs, :cats, :pets
   attr_reader :name, :species
 
