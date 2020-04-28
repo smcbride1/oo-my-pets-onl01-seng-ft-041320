@@ -24,8 +24,4 @@ class Dog
     owner.pets.push(self)
     owner.dogs.push(self)
   end
-<<<<<<< HEAD
-=======
-
->>>>>>> 735a23c7d65144713aacdbc24f68e64301cc084f
 end
